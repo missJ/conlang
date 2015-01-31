@@ -1,5 +1,4 @@
 # Phonology
----
 
 ### Inspiration
 
@@ -10,6 +9,70 @@
 
 > The key to a naturalistic language, in fact, is to add (or subtract) entire dimensions. It’s conceivable that a language could have a single glottalized consonant, but more likely that it will have a series of them (along the points of articulation: p’ t’ k’). A language might have just two palatalized consonants (Spanish does: ll, ñ), but one that has a whole series of them is more typical.
 
+
+<table>
+	<tr>
+		<td></td>
+		<td>labial</td>
+		<td>labiodental</td>
+		<td>dental</td>
+		<td>alveolar</td>
+		<td>alv-pal</td>
+		<td>velar</td>
+		<td>glottal</td>
+	</tr>
+	<tr>
+		<td>stops</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>fricatives</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>affricates</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>approximants</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>nasals</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+
 #### Phonemes
 
 > The raw sounds people produce are called **phones**... Each language has a set of **phonemes**—classes of phones that the speakers treat as ‘the same sound’... Because phonemes can be realized with different phones... [English's aspirated and unaspirated 'p' are two realizations (i.e. *phones*) of the unified 'p' sound (the *phoneme*), for example]... Such variations within a language are called **allophones**.
@@ -18,6 +81,6 @@
 
 #### Constraints
 
-> Every language has a series of constraints on what possible words can occur in the language. For instance, as an English speaker you know somehow that *blick* and *drass* are possible words, though they don’t happen to exist, but *vlim* and mtar couldn’t possibly be English.
+> Every language has a series of constraints on what possible words can occur in the language. For instance, as an English speaker you know somehow that *blick* and *drass* are possible words, though they don’t happen to exist, but *vlim* and *mtar* couldn’t possibly be English.
 
 > Designing the **phonological constraints** in your language will go a long, long way to giving it its own distinctive flavor.

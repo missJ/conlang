@@ -1,19 +1,19 @@
 ## Language Construction Outline
 
-Introduction
+[ ] Introduction
 
-Phonology
+[ ] Phonology
 
-Morphology
+[ ] Morphology
 
-Derivational Morphology
+[ ] Derivational Morphology
 
-Syntax
+[ ] Syntax
 
-Semantic Fields & Pragmatics
+[ ] Semantic Fields & Pragmatics
 
-Writing System
+[ ] Writing System
 
-Examples
+[ ] Examples
 
-Lexicon
+[ ] Lexicon
